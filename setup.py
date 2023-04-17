@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='DIABETICS PREDICTION',
+name='GENDER PREDICTION',
 version='0.0.1',
 author='RLSCHAITANYA',
 author_email='chaitanyaravuri04@gmail.com',
